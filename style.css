@@ -1,0 +1,22 @@
+#container {
+    display: inline-block;
+    padding: 13px 60px 13px 60px;
+    margin: 10px 10px 10px 90px;
+}
+
+#header {
+    border: solid red 3px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#main {
+    border: solid red 3px;
+    text-align: justify;
+    padding: 5px 5px 5px 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
